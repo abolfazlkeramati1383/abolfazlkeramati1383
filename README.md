@@ -20,11 +20,7 @@ const developer = {
 ## ⚡ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,nodejs,git,graphql" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,figma,git,js,nodejs,react,graphql" />
 </p>
 
 ---
