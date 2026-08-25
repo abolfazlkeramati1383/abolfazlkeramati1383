@@ -4,13 +4,13 @@
 
 I build modern, responsive and user-focused web experiences.
 
-I enjoy turning ideas and designs into **clean, scalable and interactive interfaces** — while continuously learning and improving my development skills.
+I'm passionate about turning ideas and designs into clean, interactive interfaces while continuously improving my skills through real-world projects.
 
 ```js
 const developer = {
   name: "Abolfazl Keramati",
   role: "Front-End Developer",
-  focus: ["React", "JavaScript", "UI Development"],
+  focus: ["JavaScript", "React", "UI Development"],
   mindset: "Build. Learn. Improve. Repeat."
 };
 ```
@@ -19,13 +19,9 @@ const developer = {
 
 ## ⚡ Tech Stack
 
-### 🎨 Front-End
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react" />
 </p>
-
-### 🛠️ Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,figma,nodejs,git,graphql" />
@@ -33,73 +29,68 @@ const developer = {
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
-* ⚛️ Build modern applications with **React**
-* 🎨 Create responsive interfaces with **Tailwind CSS**
-* 🧩 Write clean and maintainable **JavaScript**
-* 📱 Develop responsive websites for different screen sizes
-* 🎯 Turn UI designs into functional web interfaces
-* 🔌 Work with APIs and external data
-* 🛠️ Use Git & GitHub for version control
-* 📚 Continuously learn and explore modern web technologies
+* ⚛️ Building web applications with **React & JavaScript**
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🧩 Turning designs into functional user interfaces
+* 🔌 Working with APIs and external data
+* 🛠️ Using **Git & GitHub** for version control
+* 📚 Learning through projects and real-world challenges
+
+---
+
+## 🤖 AI & Development
+
+I use AI as a **learning and development tool** for problem-solving, debugging and improving code.
+
+My goal is to understand the logic behind solutions rather than simply copying generated code.
+
+---
+
+## 🌎 English
+
+Currently studying English at **Iran Language Institute (ILI)** at the **Pre-Intermediate** level.
+
+My goal is to improve my communication skills for future international collaboration and professional growth.
+
+---
+
+## 🎯 Goals & Future Path
+
+My goal is to keep growing as a **Front-End Developer** and stay up to date with modern technologies.
+
+I'm currently focused on improving my skills and plan to dive deeper into **Next.js, Claude, Prompt Engineering and AI-powered software development**.
+
+I also want to step outside my comfort zone, build professional connections and gain experience through real-world projects.
+
+In the long term, I aim to turn my product ideas into real-world solutions by building and working with a strong team.
 
 ---
 
 ## 🚀 Featured Projects
 
-I enjoy building projects that challenge me to learn something new.
+Some of the projects I've built while learning and improving:
 
-Some of the things I've built include:
-
-* 🌦️ Weather Applications
-* 💰 Cryptocurrency Applications
-* 📚 Book Applications
-* 👥 Contact Management Applications
-* 🛒 E-commerce Interfaces
+* 🌦️ Weather App
+* 💰 Cryptocurrency App
+* 📚 Book App
+* 👥 Contact App
+* 🛒 E-commerce Projects
 * 🎨 Responsive Landing Pages
-* ⚛️ React-based Web Applications
+* ⚛️ React Applications
 
 > Every project is another step forward.
 
 ---
 
-## 🎯 Currently
-
-```text
-Learning        → Advanced React & JavaScript
-Exploring       → Modern Front-End Architecture
-Building        → Real-world Web Applications
-Improving       → UI/UX & Clean Code
-Goal            → Become a strong Professional Front-End Developer
-```
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=github-dark" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-If you're interested in **Front-End Development, React, UI/UX or building something interesting**, feel free to connect with me.
+I'm always interested in **Front-End Development, React, UI/UX and building meaningful products**.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abolfazlkeramati1383">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
