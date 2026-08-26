@@ -84,18 +84,7 @@ Some of the projects I've built while learning and improving:
 
 I'm always interested in **Front-End Development, React, UI/UX and building meaningful products**.
 
-<p align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abolfazlkeramati1383@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://t.me/abolfazlkeramati1383"> <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
-
-<a href="https://instagram.com/abolfazlkeramati1383"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-
-
-</p>
+<p align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abolfazlkeramati1383@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/abolfazlkeramati1383"> <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://instagram.com/abolfazlkeramati1383"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
 ---
 
