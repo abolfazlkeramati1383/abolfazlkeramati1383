@@ -90,6 +90,10 @@ I'm always interested in **Front-End Development, React, UI/UX and building mean
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://t.me/abolfazlkeramati1383"> <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+
+<a href="https://instagram.com/abolfazlkeramati1383"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+
 
 </p>
 
