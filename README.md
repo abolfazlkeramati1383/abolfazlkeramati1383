@@ -31,8 +31,3 @@ Get in touch to discuss projects and collaboration in networking, software engin
   <a href="https://instagram.com/abolfazlkeramati1383"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:abolfazlkeramati1383@gmail.com">abolfazlkeramati1383@gmail.com</a><br />
-  <a href="https://t.me/abolfazlkeramati1383">Telegram: @abolfazlkeramati1383</a><br />
-  <a href="https://instagram.com/abolfazlkeramati1383">Instagram: @abolfazlkeramati1383</a>
-</p>
