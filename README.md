@@ -1,57 +1,29 @@
-<div dir="rtl" align="right">
+# Hi, I'm Abolfazl Keramati 👋
 
-# سلام، من ابوالفضل کرامتی هستم 👋
+### Network & Internet Specialist | Software Engineer
+### Web Systems & AI Agent Designer and Developer
 
-### کارشناس شبکه و اینترنت | مهندس نرم‌افزار
-### طراح و پیاده‌ساز سیستم‌های تحت وب و ایجنت‌های هوش مصنوعی
+From network infrastructure to software development and workflow automation, I build solutions that address the real needs of individuals and businesses.
 
-از زیرساخت شبکه تا توسعه نرم‌افزار و هوشمندسازی فرایندها، روی ساخت راهکارهایی کار می‌کنم که نیازهای واقعی افراد و کسب‌وکارها را پاسخ دهند.
+## 🌐 Networking & Internet
 
-## 🌐 شبکه و اینترنت
+My work covers networking, internet connectivity, and integrating infrastructure with software services. When designing solutions, I focus on connection stability, service availability, and ease of management and maintenance.
 
-حوزه فعالیت من شامل شبکه و اینترنت و ارتباط زیرساخت با سرویس‌های نرم‌افزاری است. در طراحی راهکارها، به پایداری ارتباطات، دسترس‌پذیری سرویس‌ها و امکان مدیریت و نگهداری توجه دارم.
+## 💻 Software Engineering & Web Systems
 
-## 💻 مهندسی نرم‌افزار و سیستم‌های تحت وب
+I turn ideas and business requirements into web systems—from requirements analysis and user interface design to implementing application logic, integrating APIs, and developing system features.
 
-ایده‌ها و نیازهای کسب‌وکار را به سیستم‌های تحت وب تبدیل می‌کنم؛ از تحلیل نیازمندی‌ها و طراحی رابط کاربری تا پیاده‌سازی منطق نرم‌افزار، اتصال به APIها و توسعه قابلیت‌های سیستم.
+My focus is on building software that is easy to use and can evolve as requirements grow.
 
-تمرکزم بر ساخت نرم‌افزارهایی است که استفاده از آن‌ها ساده باشد و بتوان آن‌ها را متناسب با نیازهای آینده توسعه داد.
+## 🤖 AI Agents & Automation
 
-## 🤖 ایجنت‌های هوش مصنوعی و خودکارسازی
+I design and develop AI agents to perform specific tasks, connect with tools and services, and automate workflows.
 
-ایجنت‌های هوش مصنوعی را برای انجام وظایف مشخص، اتصال به ابزارها و سرویس‌ها و خودکارسازی فرایندهای کاری طراحی و پیاده‌سازی می‌کنم.
+For me, the value of AI lies in its practical applications: reducing repetitive work, making information easier to access, and helping people work more effectively.
 
-برای من، ارزش هوش مصنوعی در کاربرد عملی آن است؛ کاهش کارهای تکراری، تسهیل دسترسی به اطلاعات و کمک به انجام بهتر کارها.
+## 🤝 Let's Connect
 
-## 🛠️ حوزه‌های فعالیت
-
-- شبکه و اینترنت
-- تحلیل، طراحی و توسعه نرم‌افزار
-- طراحی و پیاده‌سازی سیستم‌های تحت وب
-- طراحی رابط کاربری واکنش‌گرا
-- توسعه و یکپارچه‌سازی APIها
-- طراحی و پیاده‌سازی ایجنت‌های هوش مصنوعی
-- خودکارسازی فرایندها و اتصال سرویس‌ها
-
-## ⚡ فناوری‌ها و ابزارها
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,git,github,vscode,figma" alt="JavaScript, React, Node.js, HTML, CSS, Tailwind CSS, Git, GitHub, VS Code, Figma" />
-</p>
-
-<div dir="rtl" align="right">
-
-## 🎯 رویکرد من
-
-شناخت مسئله، انتخاب ابزار مناسب و پیاده‌سازی راهکاری قابل استفاده، پایه کار من است. یادگیری مستمر و بهبود راهکارها را بخشی از مسیر حرفه‌ای خودم می‌دانم.
-
-## 🤝 ارتباط با من
-
-برای گفت‌وگو درباره پروژه‌ها و همکاری در حوزه شبکه، نرم‌افزار، سیستم‌های تحت وب و ایجنت‌های هوش مصنوعی، از راه‌های زیر با من در ارتباط باشید.
-
-</div>
+Get in touch to discuss projects and collaboration in networking, software engineering, web systems, and AI agents.
 
 <p align="center">
   <a href="mailto:abolfazlkeramati1383@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
