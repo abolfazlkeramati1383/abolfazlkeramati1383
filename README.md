@@ -1,4 +1,4 @@
-# Hi, I'm Abolfazl Keramati 👋
+Abolfazl Keramati
 
 ### Network & Internet Specialist | Software Engineer
 ### Web Systems & AI Agent Designer and Developer
